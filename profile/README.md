@@ -49,3 +49,6 @@ focus on your idea and let TheProtocols handle these for you.
 
 🐀 [bevyframe/cpp-sdk](https://github.com/bevyframe/cpp-sdk):
   Source code for SDK for C++
+
+🐚 [bevyframe/bash-sdk](https://github.com/bevyframe/bash-sdk):
+  Source code for SDK for Bash
